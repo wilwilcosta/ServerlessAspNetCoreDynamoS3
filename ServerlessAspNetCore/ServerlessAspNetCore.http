@@ -1,0 +1,6 @@
+@ServerlessAspNetCore_HostAddress = http://localhost:5102
+
+GET {{ServerlessAspNetCore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
